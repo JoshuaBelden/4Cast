@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+.vscode/
+lib/packages/
+packages/
+*.suo
+*.user
+*.vspscc
